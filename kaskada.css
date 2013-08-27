@@ -1,0 +1,71 @@
+    h1     {color: black; font-size:175%; text-align: center;}
+    h2     {color: #006; font-size: 125%; text-align: center;}
+    h3		{color: #6d84b4; font-size: 115% ;}
+    h4		{color: grey;}
+     
+    a       {text-decoration: none; color: #2a7cb8;}
+    a:hover {color: #00FFFF; text-decoration: underline}
+    a:visited {color: #2a7cb8;}
+     
+    p, a	{text-indent: 30px; margin: 0px; }
+    p		{padding: 10px; line-height: 175%}
+    li		{padding: 7px;}
+    ul		{list-style-image: URL('../puntik.png');list-style-image: URL('puntik.png');}
+    ol		{list-style-type: decimal;}
+        
+    table	{width: 75%; margin: auto; font-size: 95%;}
+    td		{padding: 7px;}
+       
+    br		{padding: 15px;}
+       
+    hr		{width: 500px;}
+    
+    body	{background-image: url('../new-background.jpg');
+    		background-image: url('new-background.jpg');
+			background-repeat: repeat;
+			font-size: 105%;
+			line-height: 150%}
+			
+	img		{display: block;
+			margin-left: auto;
+			margin-right: auto;}
+				
+	/*#center	{display: block;
+			margin-left: auto;
+			margin-right: auto;}*/
+    
+    #main  {margin-left: auto;
+			margin-right: auto;
+			background-color: white;
+			width: 800px;
+			outline: 1px dotted silver;
+			position: relative;
+			padding: 20px;
+			font-family: tahoma;}
+			
+	#mainindex	{background-color: white;
+				width: 800px;
+				outline: 1px dotted silver;
+				position: absolute;
+				left: 218px; 
+				padding: 15px;
+				font-family: tahoma;}
+			
+	#fb		{position: absolute;
+			text-align: left;
+			margin-left: auto;
+			margin-right: auto;
+			left: 1048px;
+			top: 7px;
+			width: 300px;
+			background-color: #FFFFFF;
+			border-top: 1px dotted silver;
+			border-right: 1px dotted silver;
+			border-bottom: 1px dotted silver;}
+
+	 #paticka	{outline: 1px dotted silver;
+			padding: 10px;
+			color: grey;}
+			
+	#navigace	{text-align: center;
+				width: 25%;}

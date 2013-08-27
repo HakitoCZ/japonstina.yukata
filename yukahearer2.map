@@ -1,0 +1,14 @@
+<img src="Bez názvu" width="800" height="150" border="0" usemap="#map" />
+
+<map name="map">
+<!-- #$-:Image map file created by GIMP Image Map plug-in -->
+<!-- #$-:GIMP Image Map plug-in by Maurits Rijk -->
+<!-- #$-:Please do not edit lines starting with "#$" -->
+<!-- #$VERSION:2.3 -->
+<!-- #$AUTHOR:Hakito -->
+<area shape="rect" coords="1,122,75,150" href="../index.html" />
+<area shape="rect" coords="77,122,220,150" href="../kniha.html" />
+<area shape="rect" coords="222,122,310,150" href="../about.html" />
+<area shape="rect" coords="320,122,418,150" href="http://yukata.cz" />
+<area shape="rect" coords="421,122,492,150" href="http://forum.yukata.cz" />
+</map>
