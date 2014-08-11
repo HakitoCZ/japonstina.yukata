@@ -41,7 +41,7 @@
 
 
 	<hr><table id="navigace" border="0">
-		<tr><td><a href="05.php"><</a></td><td><a href="00.php">^</a></td><td><a href="07.php">></a></a></td></tr>
+		<tr><td><a href="05.php"><</a></td><td><a href="00.php">^</a></td><td>></a></td></tr>
 	</table>
 	<script src="../konec.js"></script>
 </body>
